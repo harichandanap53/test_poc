@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="31.876" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-07-03T06:07:30" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="ADD Item To Cart" timestamp="2023-07-03T06:07:30" tests="1" file="C:\Test_poc\tests\additemtocart_test.js" time="10.145" failures="0">
+    <testcase name="ADD Item To Cart: ADD Item To Cart" time="7.070" classname="ADD Item To Cart">
+    </testcase>
+  </testsuite>
+  <testsuite name="CART CHECKOUT" timestamp="2023-07-03T06:07:40" tests="1" file="C:\Test_poc\tests\cartitemcheckout_test.js" time="16.861" failures="0">
+    <testcase name="CART CHECKOUT: checkout item succfully" time="16.177" classname="checkout item succfully">
+    </testcase>
+  </testsuite>
+  <testsuite name="login" timestamp="2023-07-03T06:07:57" tests="1" file="C:\Test_poc\tests\login_test.js" time="4.865" failures="0">
+    <testcase name="login: user login" time="4.012" classname="user login">
+    </testcase>
+  </testsuite>
+</testsuites>
